@@ -1,0 +1,28 @@
+Recursions
+https://www.youtube.com/watch?v=lw8wdN64emw&list=PLjkkQ3iH4jy82KRn9jXeFyWzvX7sqYrjE&pp=iAQB
+
+Linked List Questions
+https://www.youtube.com/watch?v=BkrePFaqaxw&list=PLjkkQ3iH4jy-QRceXhVwYjJ7ToNsBs0Il&pp=iAQB
+
+Coding Ninja DSA
+https://www.codingninjas.com/codestudio/guided-paths/data-structures-algorithms
+
+Big Oh Notation 
+https://www.bigocheatsheet.com/
+
+Practise C Programs
+https://github.com/jwasham/practice-c
+
+JWasham Computer Science University
+https://roadmap.sh/computer-science
+https://github.com/jwasham/coding-interview-university/tree/main#linked-lists
+
+Article
+https://www.youtube.com/watch?v=zg9ih6SVACc
+https://www.freecodecamp.org/news/learn-all-about-data-structures-used-in-computer-science/
+https://www.freecodecamp.org/news/learn-data-structures-from-a-google-engineer/
+https://www.freecodecamp.org/news/learn-data-structures-and-algorithms/#inwhichlanguageshouldiwritealgorithms
+https://www.freecodecamp.org/news/why-i-studied-full-time-for-8-months-for-a-google-interview-cc662ce9bb13
+
+Complete Roadmap 
+https://www.javatpoint.com/data-structure-algorithm
